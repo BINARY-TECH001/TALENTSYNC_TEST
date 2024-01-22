@@ -8,7 +8,7 @@ function ShopifyReview() {
   return (
     <div className="shopifyReviewWrapper">
       <div className="first">
-        <img src={shopify} alt="shopify" />
+        <img src={shopify} alt="shopify" className="shopifyImage" />
         <div className="revStars">
         <Star />
         </div>

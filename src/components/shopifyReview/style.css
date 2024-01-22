@@ -4,7 +4,13 @@
     align-items: center;
     justify-content: space-between;
     gap: 14em;
+    margin: 96px 0;
 }
+
+.shopifyImage{
+    height: 32px;
+}
+
 
 .shopifyReviewWrapper .first{
     display: flex;
@@ -108,4 +114,23 @@ line-height: 30px; /* 150% */
     font-style: normal;
     font-weight: 400;
     line-height: 28px; /* 155.556% */
+}
+
+
+.arrows{
+    display: flex;
+    gap: 32px;
+    align-items: center;
+    margin-top: 3em;
+}
+
+.arrows .arrowRright{
+    border: 1px solid #D1E9FF;
+    padding: .5em;
+    border-radius: 50%;
+}
+.arrows .arrowLeft{
+    border: 1px solid #D1E9FF;
+    padding: .5em;
+    border-radius: 50%;
 }
