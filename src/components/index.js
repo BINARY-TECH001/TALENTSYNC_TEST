@@ -3,6 +3,10 @@ import Hero from "./hero/Hero";
 import Companies from "./companies/Companies";
 import WhyUs from "./WhyClearLink/WhyUs";
 import ShopifyReview from "./shopifyReview/ShopifyReview";
+import Faq from "./Faq/Faq";
+import Mockup from "./mockup/Mockup";
+import Btn from "./Btn/Btn";
+
 
 export {
     Header,
@@ -10,4 +14,7 @@ export {
     Companies,
     WhyUs,
     ShopifyReview,
+    Faq,
+    Mockup,
+    Btn,
 }

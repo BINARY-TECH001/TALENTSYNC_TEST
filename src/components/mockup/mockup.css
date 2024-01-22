@@ -1,0 +1,39 @@
+.Wrapper{
+    display: flex;
+    height: 697px;
+    justify-content: space-between;
+align-items: center;
+}
+
+.Wrapper .first{
+    flex: 1;
+    margin-bottom: 32px;
+}
+
+.Wrapper .first h2{
+    color: var(--Gray-900, #101828);
+font-size: 48px;
+font-style: normal;
+font-weight: 600;
+line-height: 60px; /* 125% */
+letter-spacing: -0.96px;
+margin-bottom: 32px;
+}
+
+.infoDiv{
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+}
+
+.item{
+    display: flex;
+    gap: 12px;
+}
+.Wrapper .second{
+    flex: 1;
+}
+
+.btnWrap{
+    margin-top: 40px;
+}

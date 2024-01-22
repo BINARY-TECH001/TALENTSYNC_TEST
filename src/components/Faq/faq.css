@@ -1,0 +1,95 @@
+.faq__wrapper {
+  display: flex;
+  width: 100%;
+  height: 720px;
+}
+
+.faq__wrapper .first {
+  flex: 1;
+}
+
+.faq__wrapper .first span {
+  color: var(--Blue-700, #175cd3);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 28px;
+}
+
+.faq__wrapper .first h1 {
+  color: var(--Gray-800, #1d2939);
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 60px; /* 125% */
+  letter-spacing: -0.96px;
+  margin: 20px 0;
+}
+
+.faq__wrapper .first p {
+  color: var(--Gray-500, #667085);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px; /* 133.333% */
+}
+
+.faq__wrapper .second {
+  flex: 1;
+}
+
+.second .iconDiv {
+  display: flex;
+  gap: 24px;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.open {
+  border-radius: 16px;
+  border: 1px solid var(--Gray-200, #eaecf0);
+  background: var(--Gray-50, #f9fafb);
+  display: flex;
+  padding: 32px;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: stretch;
+}
+
+.openText {
+  color: var(--Gray-600, #475467);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  width: 90%;
+  line-height: 28px; /* 155.556% */
+}
+
+.closeDiv {
+  display: flex;
+  padding: 32px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.closeDiv p{
+    color: var(--Gray-900, #101828);
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 30px; /* 150% */
+}
+.second .iconDiv svg {
+  height: 24px;
+  width: 24px;
+  object-fit: contain;
+}
+
+.second .iconDiv h2 {
+  color: var(--Gray-900, #101828);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 30px; /* 150% */
+}

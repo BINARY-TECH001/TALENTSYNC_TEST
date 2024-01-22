@@ -1,5 +1,6 @@
 import React from "react";
 import "./header.css";
+import Btn from "../Btn/Btn";
 function Header() {
   return (
     <div className="header__wrapper">
@@ -89,10 +90,7 @@ function Header() {
           </div>
         </nav>
 
-        <div className="btnContainer">
-          <button className="btn1"> Talk to sales </button>
-          <button className="btn2"> Sign up for free </button>
-        </div>
+        <Btn />
       </header>
     </div>
   );

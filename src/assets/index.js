@@ -46,6 +46,8 @@ import revImg3 from './revImg3.png'
 import revImg4 from './revImg4.png'
 import revImg5 from './revImg5.png'
 
+import mockupImg from './mockup.png'
+
 export {
     vidImg1,
     vidImg2,
@@ -83,4 +85,5 @@ export {
     revImg3,
     revImg4,
     revImg5,
+    mockupImg,
 }
