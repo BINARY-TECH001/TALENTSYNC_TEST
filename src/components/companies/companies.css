@@ -1,0 +1,25 @@
+.companies__wrapper{
+   margin-bottom: 96px;
+}
+
+.companies__wrapper h4{
+    color:  #475467;
+text-align: center;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 30px; /* 150% */
+}
+
+.Companies_image__container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    gap: 69px;
+    margin-top: 2em;
+}
+
+.Companies_image__container .imgCon{
+    height: 40px;
+}

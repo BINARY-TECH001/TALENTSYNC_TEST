@@ -1,7 +1,7 @@
 .hero__wrapper {
   display: flex;
   width: 100%;
-  margin-top: 160px;
+  margin: 150px 0;
   height: 488px;
 }
 

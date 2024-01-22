@@ -1,5 +1,5 @@
 
-import { Header, Hero } from './components'
+import { Companies, Header, Hero, ShopifyReview, WhyUs } from './components'
 
 function App() {
 
@@ -7,6 +7,9 @@ function App() {
     <main>
       <Header />
       <Hero />
+      <Companies />
+      <WhyUs />
+      <ShopifyReview />
     </main>
   )
 }

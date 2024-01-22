@@ -21,6 +21,31 @@ import avatar5 from './Avatar5.png'
 
 import star from './Star.svg'
 
+
+import shopify from './shopify.svg'
+import coinbase from './coinbase.svg'
+import dropBox from './dropBox.svg'
+import intercom from './intercom.svg'
+import marvel from './marvel.svg'
+import automatic from './automatic.svg'
+
+
+import Hdvid from './HdVid.svg'
+import NoiceCancel from './recordFeature.svg'
+import schedule from './schedule.svg'
+import secure from './secure.svg'
+
+import whyImages from './whyImages.png'
+import handDrawnArrow from './Hand-drawn arrow.svg'
+import shopifyManager from './shopifyManager.png'
+
+
+import revImg1 from './revImg1.png'
+import revImg2 from './revImg2.png'
+import revImg3 from './revImg3.png'
+import revImg4 from './revImg4.png'
+import revImg5 from './revImg5.png'
+
 export {
     vidImg1,
     vidImg2,
@@ -39,5 +64,23 @@ export {
     avatar3,
     avatar4,
     avatar5,
-    star
+    star,
+    shopify,
+    coinbase,
+    dropBox,
+    intercom,
+    marvel,
+    automatic,
+    Hdvid,
+    NoiceCancel,
+    schedule,
+    secure,
+    whyImages,
+    handDrawnArrow,
+    shopifyManager,
+    revImg1,
+    revImg2,
+    revImg3,
+    revImg4,
+    revImg5,
 }
