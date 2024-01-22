@@ -6,7 +6,9 @@ import ShopifyReview from "./shopifyReview/ShopifyReview";
 import Faq from "./Faq/Faq";
 import Mockup from "./mockup/Mockup";
 import Btn from "./Btn/Btn";
-
+import Footer from "./footer/Footer";
+import Logo from "./Logo/Logo";
+import FooterIcon from "./FooterIcon/FooterIcon";
 
 export {
     Header,
@@ -17,4 +19,7 @@ export {
     Faq,
     Mockup,
     Btn,
+    Footer,
+    Logo,
+    FooterIcon
 }

@@ -11,7 +11,7 @@ function Hero() {
 
       <div className="first">
         <h2> Uniting the world, <br />one video at a time </h2>
-        <p className='desc'>Experience the future of communication with ClearLink – <br /> where crystal-clear video conferencing meets unparalleled simplicity.</p>
+        <p className='description'>Experience the future of communication with ClearLink – <br /> where crystal-clear video conferencing meets unparalleled simplicity.</p>
 
         <div className="trial">
             <button> Start your free trial </button>

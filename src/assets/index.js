@@ -48,7 +48,23 @@ import revImg5 from './revImg5.png'
 
 import mockupImg from './mockup.png'
 
+import AppleStore from './appleStore.svg'
+import GooglePlay from './GooglePlay.svg'
+
+import Linkedin from './Linkedin.svg'
+import Twitter from './twitter.svg'
+import Fb from './Fb.svg'
+import Instagram from './Instagram.svg'
+import Github from './Github.svg'
+import Youtube from './Youtube.svg'
+
 export {
+    Linkedin,
+    Twitter,
+    Fb,
+    Instagram,
+    Github,
+    Youtube,
     vidImg1,
     vidImg2,
     vidImg3,
@@ -86,4 +102,6 @@ export {
     revImg4,
     revImg5,
     mockupImg,
+    AppleStore,
+    GooglePlay
 }

@@ -36,6 +36,8 @@
 
 .faq__wrapper .second {
   flex: 1;
+  display: flex;
+  flex-direction: column;
 }
 
 .second .iconDiv {
@@ -68,7 +70,6 @@
 
 .closeDiv {
   display: flex;
-  padding: 32px;
   align-items: center;
   justify-content: space-between;
 }

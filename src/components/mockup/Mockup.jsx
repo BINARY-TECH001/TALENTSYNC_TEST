@@ -46,7 +46,7 @@ function Mockup() {
                 stroke-linejoin="round"
               />
             </svg>
-            <span>30 days free trial</span>
+            <span>Cancel at any time</span>
           </div>
 
           <div className="item">
@@ -65,7 +65,7 @@ function Mockup() {
                 stroke-linejoin="round"
               />
             </svg>
-            <span>30 days free trial</span>
+            <span>Access to all features</span>
           </div>
 
           <div className="item">
@@ -84,7 +84,7 @@ function Mockup() {
                 stroke-linejoin="round"
               />
             </svg>
-            <span>30 days free trial</span>
+            <span>Peronalized onboarding</span>
           </div>  
         </div>
 

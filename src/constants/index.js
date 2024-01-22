@@ -1,4 +1,4 @@
-import { Hdvid, Mic, Monitor, Msg, NoiceCancel, automatic, avatar1, avatar2, avatar3, avatar4, avatar5, coinbase, dropBox, intercom, marvel, revImg1, revImg2, revImg3, revImg4, revImg5, schedule, secure, settings, shopify, smileface, vidImg1, vidImg2, vidImg3, vidImg4, vidImg5,vidImg6, vidRecorder } from "../assets"
+import { Fb, Github, Hdvid, Instagram, Linkedin, Mic, Monitor, Msg, NoiceCancel, Twitter, Youtube, automatic, avatar1, avatar2, avatar3, avatar4, avatar5, coinbase, dropBox, intercom, marvel, revImg1, revImg2, revImg3, revImg4, revImg5, schedule, secure, settings, shopify, smileface, vidImg1, vidImg2, vidImg3, vidImg4, vidImg5,vidImg6, vidRecorder } from "../assets"
 export const vidImages = [
     {
         id: 1,
@@ -160,4 +160,26 @@ export const revImages = [
     id: 5,
     img: revImg5,
 },
+]
+
+
+export const footerIcon = [
+    {
+        icon: Linkedin,
+    },
+    {
+        icon: Twitter,
+    },
+    {
+        icon: Fb,
+    },
+    {
+        icon: Instagram,
+    },
+    {
+        icon: Github,
+    },
+    {
+        icon: Youtube,
+    },
 ]

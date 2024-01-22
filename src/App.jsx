@@ -1,9 +1,10 @@
 
-import { Companies, Faq, Header, Hero, Mockup, ShopifyReview, WhyUs } from './components'
+import { Companies, Faq, Footer, FooterIcon, Header, Hero, Mockup, ShopifyReview, WhyUs } from './components'
 
 function App() {
 
   return (
+
     <main>
       <Header />
       <Hero />
@@ -12,6 +13,8 @@ function App() {
       <ShopifyReview />
       <Faq />
       <Mockup />
+      <Footer />
+      <FooterIcon />
     </main>
   )
 }
